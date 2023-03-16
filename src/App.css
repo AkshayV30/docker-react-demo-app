@@ -12,7 +12,7 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-.h1 {
+h1 {
   color: chartreuse;
   background-color: rgba(0, 0, 0, 0.425);
   padding: 15px;
