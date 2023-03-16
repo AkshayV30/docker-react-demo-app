@@ -5,7 +5,7 @@ services:
       context: .
       dockerfile: Dockerfile.dev
     ports:
-      - "80:3000"
+      - "80:3000" #80 -while using aws | 3000 -react
     volumes:
       - /app/node_modules
       - .:/app
